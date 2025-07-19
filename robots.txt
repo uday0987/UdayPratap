@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://uday0987.github.io/UdayPratap/sitemap.xml
